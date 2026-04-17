@@ -25,12 +25,6 @@ YOLOv5s
 Source: Local yolov5-master directory
 
 Pretrained weights are used (yolov5s.pt)
-
-🙌 Contributors
-Amogh Chary – AI Model Developer, System Integrator
-
-Misha Alam, Riddhi Chopra- Dataset analytics and Testing
-
 OpenAI (ChatGPT) – Development Support
 
 Ultralytics – YOLOv5 Framework
